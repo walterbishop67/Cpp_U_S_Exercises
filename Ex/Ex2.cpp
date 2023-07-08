@@ -3,6 +3,10 @@
 
 using namespace std;
 int main() {
+    // Letter Pyramid
+    /* a
+      aba
+     abcba*/
 
     string b;
     string abc ;
